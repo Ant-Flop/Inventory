@@ -1,0 +1,4 @@
+repository "Inventory@plautwork@cloud"
+  path "/"
+    br "/main"
+    co "/main"
